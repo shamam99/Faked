@@ -8,7 +8,6 @@ Faked is a web application project focused on user authentication and management
 
 # Project Structure
 
-```
 Faked/
 ├── config/
 │   └── dbConnections.js
@@ -36,7 +35,6 @@ Faked/
 ├── constants.js
 ├── package-lock.json
 └── package.json
-```
 
 ## Installation
 
