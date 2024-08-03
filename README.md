@@ -6,36 +6,6 @@
 
 Faked is a web application project focused on user authentication and management. It includes features such as user registration, login, password reset, and admin functionalities. This project is built using Node.js and Express, following the MVC architecture.
 
-# Project Structure
-
-Faked/
-├── config/
-│   └── dbConnections.js
-├── controllers/
-│   ├── adminController.js
-│   ├── forgetPassword.js
-│   ├── login.js
-│   ├── register.js
-│   └── resetPassword.js
-├── middleware/
-│   ├── auth.js
-│   └── errorHandler.js
-├── models/
-│   ├── admin.js
-│   └── user.js
-├── routes/
-│   ├── adminRoutes.js
-│   └── authRoutes.js
-├── utils/
-│   ├── generateToken.js
-│   └── mailer.js
-├── .gitignore
-├── README.md
-├── app.js
-├── constants.js
-├── package-lock.json
-└── package.json
-
 ## Installation
 
 To install and run this project locally, follow these steps:
