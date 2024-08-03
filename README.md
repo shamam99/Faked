@@ -6,7 +6,7 @@
 
 Faked is a web application project focused on user authentication and management. It includes features such as user registration, login, password reset, and admin functionalities. This project is built using Node.js and Express, following the MVC architecture.
 
-## Project Structure
+# Project Structure
 
 ```
 Faked/
